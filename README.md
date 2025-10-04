@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Vasco</h1>
 <h3 align="center">A passionate fullstack developer from Brazil living in Spain</h3>
 
-- 🔭 I’m currently working on freelance projects **private**
+- 🔭 I’m currently working on freelance projects 
 - 💬 Ask me about **angular(typescript), springboot (java)**
 - 📫 How to reach me **tiagoalvesvasco@gmail.com**
 
